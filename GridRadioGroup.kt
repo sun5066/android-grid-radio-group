@@ -8,7 +8,7 @@ import androidx.gridlayout.widget.GridLayout
 
 
 /**
- * RadioGroup 에서 LinearLayout -> GridLayout 으로 새로 탄생한 View
+ * RadioGroup  LinearLayout -> GridLayout 으로 새로 탄생한 View
  *
  * @attr rowCount="2"   : 행 수
  * @attr columnCount="2": 열 수
