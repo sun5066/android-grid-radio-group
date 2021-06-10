@@ -9,3 +9,5 @@ dependencies {
   implementation "androidx.gridlayout:gridlayout:{release-version}"
 }
 ```
+## 참고한것
+https://gist.github.com/saiaspire/a73135cfee1110a64cb0ab3451b6ca33
